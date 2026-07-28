@@ -1,7 +1,7 @@
 services:
   - type: web
     name: portfolio-api
-    runtime: java
+    runtime: docker
     plan: free
     region: frankfurt
     branch: main
